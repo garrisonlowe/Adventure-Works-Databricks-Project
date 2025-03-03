@@ -54,9 +54,6 @@ This project incorporates various visualization techniques from Databricks to re
 - Line graphs for trend analysis
 - Pie charts for market share representation
 
-### Conclusions
-
-Summary of key insights and business recommendations derived from the analysis.
 
 # Analysis
 
