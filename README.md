@@ -32,10 +32,10 @@ Key areas of analysis include:
 
 ### Reports
 
-- Change over time analysis
-    - Detailed breakdown of sales performance across different territories and regions.
-- Cumulative analysis
-    - Analysis of best-selling and underperforming product categories and subcategories.\
+- **Customer Report**
+    - This report consolidates key customer metrics and behaviors
+- **Product Report**
+    - This report consolidates key product metrics and behaviors.
 
 ### SQL Techniques Used
 
